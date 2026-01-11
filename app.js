@@ -1,5 +1,5 @@
 function getNumber() {
-  return 7;
+  return 8;
 }
 
 module.exports = { getNumber };
